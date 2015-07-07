@@ -1,6 +1,7 @@
 == README
 at line for commit 1
 at line for commit 2
+at line for commit 3
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
